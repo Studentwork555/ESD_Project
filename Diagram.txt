@@ -1,0 +1,8 @@
+
+
+Create ER Diagram 
+
+1.Go to the DrowIO
+2.get the empety template
+3.Add the entity and attribute
+4.finish 
